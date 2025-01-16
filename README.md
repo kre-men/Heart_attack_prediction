@@ -1,2 +1,2 @@
-# Heart_attack_prediction
-Traffic Light Classification using CNNs This project uses a Convolutional Neural Network (CNN) to classify images of traffic lights as either red or green. The model is trained on a dataset of traffic light images and employs data augmentation to improve robustness.
+Heart_attack_prediction
+A machine learning project that predicts the likelihood of a heart attack based on patient health metrics using various classification models, including Logistic Regression, Random Forest, SVM, MLP, and XGBoost. It achieves accurate predictions by preprocessing a health dataset and evaluating multiple models for optimal performance.
